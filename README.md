@@ -1,6 +1,6 @@
 # Snake-Game
 The classic game of snake made in Python with Turtle
-<br>
+<br><br><br>
 Controls:<br>
 W key - UP <br>
 S key - DOWN <br>
