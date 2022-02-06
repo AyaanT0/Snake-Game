@@ -2,7 +2,7 @@
 The classic game of snake made in Python with Turtle
 
 Controls:
-W key - UP
+W key - UP <br>
 S key - DOWN
 A key - LEFT
 D key - RIGHT
